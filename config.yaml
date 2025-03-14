@@ -1,0 +1,5 @@
+DB_NAME : tradingBot
+TRADING_TABLE_NAME : trades
+image_path_fii_dii : "./FII-DII-chromium.png"
+image_path_fii : "./FII-EQUITY-chromium.png"
+NSE_FII_DII_URL : 'https://trendlyne.com/macro-data/fii-dii/latest/snapshot-pastmonth/'

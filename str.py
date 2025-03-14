@@ -1,0 +1,1 @@
+ltfs = 'long_term_fii_sentiment'
